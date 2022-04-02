@@ -1,0 +1,6 @@
+num1=input('digite um número: ')
+num2=input('digite um segundo número: ')
+num3=input('digite um outro número: ')
+num4=input('digite um número: ')
+num5=input('digite um número: ')
+print('o maior número é', max(num1, num2, num3, num4, num5))
